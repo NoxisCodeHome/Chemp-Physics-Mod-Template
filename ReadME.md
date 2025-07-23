@@ -1,4 +1,4 @@
-// # Chemp Physics Mod Template (Official)
+# Chemp Physics Mod Template (Official)
 
  Welcome to the official template for creating Chemp Physics mods.
 

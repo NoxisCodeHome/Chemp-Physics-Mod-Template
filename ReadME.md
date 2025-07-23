@@ -9,7 +9,7 @@
     check the #references channel in the Chemp Physics Modding discord https://discord.gg/y35fUvDpyd.
 
  2. Start Coding  
-    Dive into development! The Chemp Physics documentation is available and covers a lot of what you need to know.
+    Start making your own wonderfull mods
 
  ## Components & GameObjects
 
